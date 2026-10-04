@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+llama-index-core
+llama-index-readers-file
+llama-index-embeddings-huggingface
+llama-index-llms-openrouter
+pymupdf
